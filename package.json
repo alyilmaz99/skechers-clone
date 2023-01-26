@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxi dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
@@ -21,6 +21,7 @@
     "pwa": "^1.9.7",
     "store": "^2.0.12",
     "vue": "^3.2.45",
+    "vue-resource": "^1.5.3",
     "vue-router": "^4.1.6",
     "vuex": "^4.1.0"
   },
